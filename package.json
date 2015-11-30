@@ -1,0 +1,27 @@
+{
+  "name": "jfinal-react",
+  "version": "0.0.1",
+  "description": "Isomorphic jfinal react.js example",
+  "main": " ",
+  "dependencies": {
+    "babel-preset-react": "^6.1.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheft/jfinal-react.git"
+  },
+  "keywords": [
+    "react",
+    "jfinal"
+  ],
+  "author": "cheft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheft/jfinal-react/issues"
+  },
+  "homepage": "https://github.com/cheft/jfinal-react#readme"
+}
