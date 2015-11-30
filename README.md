@@ -1,2 +1,2 @@
 # jfinal-react
-Isomorphic jFinal React.js Example
+Isomorphic jfinal react.js example
